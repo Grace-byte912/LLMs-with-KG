@@ -22,8 +22,11 @@ A collection of papers and resources about using KG to help LLMs for inference a
 
 [【2022】JointLK: Joint reasoning with language models and knowledge graphs for commonsense question answering](https://aclanthology.org/2022.naacl-main.372) #基于GNN
 
-[【2022】Greaselm: Graph reasoning enhanced language models]()
+[【2022】Greaselm: Graph reasoning enhanced language models](https://arxiv.org/abs/2201.08860) 
 
+[【2023】GrapeQA : GRaph Augmentation and Pruning to Enhance Question-Answering](https://arxiv.org/abs/2303.12320) #基于QA-GNN
+
+[【2023】KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models]()
 
 ## Retrieval-Augmented Knowledge Fusion
 
